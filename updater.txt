@@ -1,0 +1,2 @@
+VERSION: 2.0
+DOWNLOAD: "https://unknown.currently"
