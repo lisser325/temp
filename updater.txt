@@ -1,3 +1,3 @@
 VERSION: 2.0
-AXIOM DOWNLOAD: "https://unknown.currently"
-AXIOM UNIVERSAL DOWNLOAD: "https://unknown.currently"
+AXIOM DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/6uc4xfbsxi3lg2zc7hgg9/Axiom.exe?rlkey=vzvn45p06xuevemndsa3hvamg&e=1&st=y09ma17i&dl=0"
+AXIOM UNIVERSAL DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/s0jbmf561m4s2kqf6qwu8/Axiom-Universal.exe?rlkey=uamx5ic7u06kucw4qijxli6qc&e=1&st=n9ftqpsq&dl=0"
