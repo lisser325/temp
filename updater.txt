@@ -2,3 +2,4 @@ VERSION: 2.0
 AXIOM DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/6uc4xfbsxi3lg2zc7hgg9/Axiom.exe?rlkey=vzvn45p06xuevemndsa3hvamg&e=1&st=y09ma17i&dl=0"
 AXIOM UNIVERSAL DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/fcsqvyzt0b85sqhlupkpx/Axiom-Universal.exe?rlkey=lszsemix08d15ua8dpvis936n&e=1&st=53wb6b9k&dl=0"
 CHANGES: "ADDED AUTO UPDATER|ADDED MORE ESP TO TYPE SOUL|UPDATED ROBLOX OUTDATED VERSION"
+UPDATEDROBLOX: YES
