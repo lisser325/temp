@@ -3,4 +3,4 @@ AXIOM DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/6uc4xfbsxi3lg2zc7hgg9/A
 AXIOM UNIVERSAL DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/fcsqvyzt0b85sqhlupkpx/Axiom-Universal.exe?rlkey=lszsemix08d15ua8dpvis936n&e=1&st=53wb6b9k&dl=0"
 CHANGES: "ADDED AUTO UPDATER|ADDED MORE ESP TO TYPE SOUL|UPDATED ROBLOX OUTDATED VERSION"
 UPDATEDROBLOX: YES
-ROBLOX DOWNLOAD: "https://setup.rbxcdn.com/RobloxPlayerLauncher.exe"
+ROBLOX DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/smv8sip6mncr7l3i397wl/RobloxPlayerInstaller.exe?rlkey=q2y8fdmn805032nqap0lbrjjw&st=der1nx5e&dl=0"
