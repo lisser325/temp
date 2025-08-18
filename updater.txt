@@ -1,6 +1,6 @@
 VERSION: 2.1
 AXIOM DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/na5ptkoyjjnx4ebstneqi/Axiom.exe?rlkey=v2w9rtfgi7dqvitwab00wm20e&st=vnldjz7d&dl=0"
 AXIOM UNIVERSAL DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/zoblawb15l7f6611dhql1/AxiomUniversal.exe?rlkey=2slms71lmvmfopxtxftni703k&st=4qc7ztcx&dl=0"
-CHANGES: "ADDED AUTO UPDATER|ADDED MORE ESP TO TYPE SOUL|UPDATED ROBLOX OUTDATED VERSION"
+CHANGES: "ADDED BLOXSTRAP SUPPORT|ADDED FISHSTRAP SUPPORT"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/smv8sip6mncr7l3i397wl/RobloxPlayerInstaller.exe?rlkey=q2y8fdmn805032nqap0lbrjjw&st=der1nx5e&dl=0"
