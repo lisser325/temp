@@ -1,6 +1,6 @@
-VERSION: 2.3
-AXIOM DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/hb6wcemjaud3e1igdq3pz/Axiom.exe?rlkey=jfcnrpsnvbo0bkcbuoxqtn2c4&st=r7kar6kv&dl=0"
-AXIOM UNIVERSAL DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/exzex6xtecmnzzcm6o6za/AxiomUniversal.exe?rlkey=dxi79t4zgajx6gbv1y5xjwxsj&st=vblkc5bm&dl=0"
-CHANGES: "UPDATED ROBLOX VERSION|UPDATED OFFSETS"
+VERSION: 2.4
+AXIOM DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/1e67eu3c3dqf8gd0k2qpy/Axiom.exe?rlkey=qvmihynjzt4zq0xkx8fznza8t&st=lkswiwx0&dl=0"
+AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/5aptappijuwxdvdsdma4o/AxiomUniversal.exe?rlkey=4uecl2mq9vg3odj7som3w3gwf&st=zni19u4r&dl=0"
+CHANGES: "UPDATED EXTERNAL|UPDATED UI|ADDED HOOP HEROES|UPDATED ARCADE BASKETBALL|BUG FIXES|NEW HWID LOGIC"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/zkmomet5x5pyaw77k3fug/RobloxPlayerInstaller-HJRPPRFFJK.exe?rlkey=gd88rsgfqxbaqzz52i2u6ut1x&st=kidsntto&dl=0"
