@@ -1,6 +1,6 @@
-VERSION: 2.5
-AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/ldjpqczgjecxlhjh797za/Axiom.exe?rlkey=jgbdayugjhkik9yzzt0r9fgaf&st=u5umovr8&dl=0"
-AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/ey57etqm3i1ls3e868pr4/AxiomUniversal.exe?rlkey=u2adg0bhelzmpn2vwh5c4bmgj&st=s9ie5k0p&dl=0"
-CHANGES: "UPDATED EXTERNAL|UPDATED UI|ADDED HOOP HEROES|UPDATED ARCADE BASKETBALL|BUG FIXES|NEW HWID LOGIC"
+VERSION: 2.6
+AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/qmb0lyu0ruxq853bl0h1m/Axiom.exe?rlkey=6asf89op3o95gxxi4rir13x15&st=sjebp8jo&dl=0"
+AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/i13cv3ngzwn6yxyrb7f8y/AxiomUniversal.exe?rlkey=c2su5vam887jvgga2uziymdnc&st=021fwhzy&dl=0"
+CHANGES: "REVAMPED/UPDATED TYPE SOUL AUTOPARRY"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "http://dl.dropboxusercontent.com/scl/fi/zkmomet5x5pyaw77k3fug/RobloxPlayerInstaller-HJRPPRFFJK.exe?rlkey=gd88rsgfqxbaqzz52i2u6ut1x&st=kidsntto&dl=0"
