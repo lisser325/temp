@@ -1,6 +1,6 @@
-VERSION: 2.7
-AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/jyu6k828dan9rh0bc4wqo/Axiom.exe?rlkey=yhjvz2wo2pjfpkd4jddkdxhv7&st=r8ko11qq&dl=0"
-AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/1innc7ly8iv9a8w291nk6/AxiomUniversal.exe?rlkey=w3d0ncu4gbkt7iwqisdlxplbf&st=gz1df6lr&dl=0"
-CHANGES: "UPDATED ROBLOX|UPDATED UNIVERSAL|UPDATED HOOPHEROES|UPDATED TYPE SOUL"
+VERSION: 2.8
+AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/01xxdkajyhow6c4d9ka98/Axiom.exe?rlkey=59280ap7p4fkp66fibb4lkll7&st=q6dvju54&dl=0"
+AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/p2wwlm2h1dieiz8vyawkq/AxiomUniversal.exe?rlkey=ruhnd97r0agsk3lgja9fs6gk6&st=krot0qjt&dl=0"
+CHANGES: "UPDATED ROBLOX|UPDATED ATTRIBUTES|UPDATED ROBALL|UPDATED TYPESOUL"
 UPDATEDROBLOX: YES
-ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/ozfksh41j063tzbjkza76/RobloxPlayerInstaller-JFGH4CBXT4.exe?rlkey=jpf459igvt4z6i11llzh1onqs&st=ttybqy32&dl=0"
+ROBLOX DOWNLOAD: "dl.dropboxusercontent.com/scl/fi/zl0xgou7oxlomriiqb40f/RobloxPlayerInstaller-6VJY4BPT8H.exe?rlkey=5ijeg9rvy1wg7g6ry2mkryxkl&st=xnf1kacu&dl=0"
