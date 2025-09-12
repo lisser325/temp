@@ -1,7 +1,7 @@
-VERSION: 2.9
-AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/6qbqnxd1n0la1eebxqi24/Axiom.exe?rlkey=pthmhps51bb460rkulvczv3k6&st=xzgmie3m&dl=0"
-AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/vlpsv5vbt4dlw20juj8a0/AxiomUniversal.exe?rlkey=kmx23z0ppwbm3ncimawq4ca6g&st=2wmqol3f&dl=0"
-CHANGES: "UPDATED ROBLOX|COMINGSOON: HOOPZ|AUTOUPDATER|2NEWPRODUCTS"
+VERSION: 3.0
+AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/kr6ggazdzmlzlsaoxh0c4/Axiom.exe?rlkey=3n8j81fhwrhi0qo08ceel07cm&st=hkfd9x1d&dl=0"
+AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/i9j85u64sbvc4zs3tr6e7/AxiomUniversal.exe?rlkey=pvn8vnbkxqoru2vt11f294uum&st=joo82dkw&dl=0"
+CHANGES: "UPDATED ROBLOX|ADDEDAUTOOFFSETUPDATER|FIXEDATTRIBUTES"
 UPDATEDROBLOX: YES
-ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/1521s0v4qzhns5cis6xq4/RobloxPlayerInstaller-7JVVBV7F87.exe?rlkey=9z0ur071ugxth0iidja0728ce&st=qde916id&dl=0"
+ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/rlnkhnap8po76hm4a73gu/RobloxPlayerInstaller-TTD6969M3Y.exe?rlkey=lf1sodkw91ncdqdft7i7qwjg5&st=8v8fohkh&dl=0"
 ROBLOX VERSION: "version-8afc5a7d5e894d22"
