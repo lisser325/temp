@@ -1,5 +1,5 @@
 VERSION: 3.0
-AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/kr6ggazdzmlzlsaoxh0c4/Axiom.exe?rlkey=3n8j81fhwrhi0qo08ceel07cm&st=hkfd9x1d&dl=0"
+AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/hs4gmcoly2gbfcd2fmp4n/Axiom.exe?rlkey=yoj6wjeku3uxdns9jdr13i8c7&st=vzgbkaum&dl=0"
 AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/i9j85u64sbvc4zs3tr6e7/AxiomUniversal.exe?rlkey=pvn8vnbkxqoru2vt11f294uum&st=joo82dkw&dl=0"
 CHANGES: "UPDATED ROBLOX|ADDEDAUTOOFFSETUPDATER|FIXEDATTRIBUTES"
 UPDATEDROBLOX: YES
