@@ -1,7 +1,8 @@
-VERSION: 3.1
-AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/zlee7qwe8u3bb5lxzj3vm/Axiom.exe?rlkey=irk1yccml6kufb8hzno2qatyb&st=74fvfeam&dl=0"
-AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/6nx06mfhd5faud4fuhjpk/AxiomUniversal.exe?rlkey=w4vyky4iyuifpm3ye3l1cx8et&st=oai6as3h&dl=0"
-CHANGES: "UPDATED EXTERNALS|ADDINGCONFIG|ADDEDRH2WALKSPEED|ADDEDMOREVISUALS"
+VERSION: 3.2
+AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/5shqr2r4n1bantkxbfxb4/Axiom.exe?rlkey=f8r2fuc1lcmg9pvl5sz9j7v11&st=ah803hpr&dl=0"
+AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/whh3xxqjxr0zkzck6k6m9/AxiomUniversal.exe?rlkey=pqfqjai4hvbf1nmnl01o6iurn&st=woad6gk4&dl=0"
+AXIOM HOOPZ: "https://dl.dropboxusercontent.com/scl/fi/i0b4vvtz0dtv88jjwbq3j/AxiomHoopz.exe?rlkey=gi5uwgjnn28pljcagog5y65da&st=xxztyf14&dl=0"
+CHANGES: "PLEASE REINSTALL IN #updated-builds|DISCORD.GG/rbw5|NEW EXTERNAL"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/rlnkhnap8po76hm4a73gu/RobloxPlayerInstaller-TTD6969M3Y.exe?rlkey=lf1sodkw91ncdqdft7i7qwjg5&st=8v8fohkh&dl=0"
 ROBLOX VERSION: "version-8afc5a7d5e894d22"
