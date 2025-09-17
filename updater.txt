@@ -3,6 +3,6 @@ AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/5shqr2r4n1bantkxbfxb4/
 AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/whh3xxqjxr0zkzck6k6m9/AxiomUniversal.exe?rlkey=pqfqjai4hvbf1nmnl01o6iurn&st=woad6gk4&dl=0"
 AXIOM HOOPZ: "https://dl.dropboxusercontent.com/scl/fi/i0b4vvtz0dtv88jjwbq3j/AxiomHoopz.exe?rlkey=gi5uwgjnn28pljcagog5y65da&st=xxztyf14&dl=0"
 CHANGES: "PLEASE REINSTALL IN #updated-builds|DISCORD.GG/rbw5|NEW EXTERNAL"
-UPDATEDROBLOX: NO
+UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/rlnkhnap8po76hm4a73gu/RobloxPlayerInstaller-TTD6969M3Y.exe?rlkey=lf1sodkw91ncdqdft7i7qwjg5&st=8v8fohkh&dl=0"
-ROBLOX VERSION: "version-8afc5a7d5e894d22"
+ROBLOX VERSION: "version-31fc142272764f02"
