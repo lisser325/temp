@@ -5,4 +5,4 @@ AXIOM HOOPZ: "https://dl.dropboxusercontent.com/scl/fi/96yxd8pvn95vql2lv8bd7/Axi
 CHANGES: "FIXED SSL ERRORS|CHANGEDPORT|GAMEUPDATES"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/rlnkhnap8po76hm4a73gu/RobloxPlayerInstaller-TTD6969M3Y.exe?rlkey=lf1sodkw91ncdqdft7i7qwjg5&st=8v8fohkh&dl=0"
-ROBLOX VERSION: "version-f6cd26d0e71b47c9"
+ROBLOX VERSION: "version-494828652c274712"
