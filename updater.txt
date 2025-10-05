@@ -1,7 +1,7 @@
-VERSION: 3.3
-AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/e2glj9qwtawc25cslpyxq/Axiom.exe?rlkey=x1lvqi1wxw4xf1s286rx75p0l&st=8wd9zm6z&dl=0"
-AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/d95aa1xv021c7uet5f43z/AxiomUniversal.exe?rlkey=94tv2isfez9l7u7kpip7ozy4c&st=xdrur4gq&dl=0"
-AXIOM HOOPZ: "https://dl.dropboxusercontent.com/scl/fi/96yxd8pvn95vql2lv8bd7/AxiomHoopz.exe?rlkey=z2lrukql6d5se53q0ah0enq8w&st=ssi577n1&dl=0"
+VERSION: 3.4
+AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/m56l2cq302ycb9w2hntmu/Axiom.exe?rlkey=5p5bnsbrspc9ezyfe7wc1dfr2&st=9a4kj4o3&dl=0"
+AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/s7dcl0uhveyuujmnp4b5g/AxiomUniversal.exe?rlkey=mcv2471zcw4awjn3uknjamcxb&st=ocf4a1gb&dl=0"
+AXIOM HOOPZ: "https://dl.dropboxusercontent.com/scl/fi/ppgsvnqzhkjw63bs0lyey/AxiomHoopz.exe?rlkey=la7t05e78jquto6s6i44el1ff&st=qvh33prq&dl=0"
 CHANGES: "FIXED SSL ERRORS|CHANGEDPORT|GAMEUPDATES"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/rlnkhnap8po76hm4a73gu/RobloxPlayerInstaller-TTD6969M3Y.exe?rlkey=lf1sodkw91ncdqdft7i7qwjg5&st=8v8fohkh&dl=0"
