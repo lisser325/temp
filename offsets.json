@@ -5,6 +5,8 @@
   "Anchored": "0x275",
   "AnchoredMask": "0x2",
   "AnimationId": "0xD0",
+  "AttributeList": "0x40",
+  "AttributeList2": "0x18",
   "AttributeToNext": "0x58",
   "AttributeToValue": "0x18",
   "AutoJumpEnabled": "0x1DB",
