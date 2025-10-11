@@ -168,5 +168,6 @@
   "SizeY": "0x4F8",
   "Visible": "0x571",
   "Text": "0xDF0",
-  "CurrentState": "0x12"
+  "CurrentState": "0x12",
+  "OffsetY": "0x15c"
 }
