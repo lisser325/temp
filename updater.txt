@@ -1,8 +1,8 @@
-VERSION: 3.5
-AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/vljv30uyjsg52h2rbhiyk/Axiom.exe?rlkey=2pemo0bdwvqd96w5wil680k77&st=07pd8wxz&dl=0"
-AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/xhaqupo3hhpxzk998p7cx/AxiomUniversal.exe?rlkey=8x2mrjdysngue5kcehidb3qmt&st=lja17hx4&dl=0"
-AXIOM HOOPZ: "https://dl.dropboxusercontent.com/scl/fi/r8ya5rto6vgaavkm7wk8x/AxiomHoopz.exe?rlkey=rr83xzqdp610tst28memfmaaq&st=xajbaunn&dl=0"
-CHANGES: "UPDATED FF2|ADDED BLADEBALL|FIXEDBUGS"
+VERSION: 3.6
+AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/qx6mque9a16fs8iyv2g9y/Axiom.exe?rlkey=l92fov6dpsl8u4rjcby9mua9h&st=agahuqa1&dl=0"
+AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/lip9zus3k09xvv8u98yl1/AxiomUniversal.exe?rlkey=uz5oss34souuw2e89g4ycj3ul&st=b5m4aqrv&dl=0"
+AXIOM HOOPZ: "https://dl.dropboxusercontent.com/scl/fi/swtuccls1tvm9evq739vt/AxiomHoopz.exe?rlkey=jrigl1an4t0oz0h97gq2o1h9v&st=lhpcdiz9&dl=0"
+CHANGES: "ADDED PRACTICAL BASKETBALL"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/mday43es22eccx7rldyou/RobloxPlayerInstaller-8JKJM7DWM2.exe?rlkey=rtn2gouspylf23g8gqfsoqv90&st=9v1njurb&dl=0"
 ROBLOX VERSION: "version-d34359a5577645e2"
