@@ -169,5 +169,6 @@
   "Visible": "0x571",
   "Text": "0xDF0",
   "CurrentState": "0x12",
-  "OffsetY": "0x15c"
+  "OffsetY": "0x15c",
+  "OffsetX": "0x158"
 }
