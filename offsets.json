@@ -6,7 +6,7 @@
   "AnchoredMask": "0x2",
   "AnimationId": "0xd0",
   "AttributeContainer": "0x18",
-  "AttributeList": "0x18",
+  "AttributeList": "0x40",
   "AttributeList2": "0x18",
   "AttributeToNext": "0x58",
   "AttributeToValue": "0x18",
