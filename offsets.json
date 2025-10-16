@@ -156,7 +156,7 @@
     "Walkspeed": "0x1D4",
     "WalkspeedCheck": "0x3A0",
     "Workspace": "0x178",
-    "SizeY": "0x4F8",
+    "SizeY": "0x500",
     "CurrentState": "0x12",
     "OffsetY": "0x15c",
     "OffsetX": "0x158"
