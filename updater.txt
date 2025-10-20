@@ -1,8 +1,6 @@
-VERSION: 3.8
-AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/mf5e969vfxkyipj4secgv/Axiom.exe?rlkey=ahacnr2817hth9tas9tgljyra&st=xzumvmd4&dl=0"
-AXIOM UNIVERSAL DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/ypj9bg1tmnjq56vc6oszf/AxiomUniversal.exe?rlkey=qn81mujoog2tk4y1y14jb0jn4&st=v734rsnu&dl=0"
-AXIOM HOOPZ: "https://dl.dropboxusercontent.com/scl/fi/8i634uabvjaoilqoeqwer/AxiomHoopz.exe?rlkey=o6v2nxct2upw7z3w8mksv3i2h&st=fs4spwg2&dl=0"
-CHANGES: "ADDED PLAYGROUND BASKETBALL|NEW UI FOR AXIOM"
+VERSION: 4.0
+AXIOM DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/3ypz2sltr8v7v74efbevl/Axiom.exe?rlkey=4isqe3od7ws7vs5j7gu6340z7&st=pajrll9i&dl=0"
+CHANGES: "NEW UI|TP HANDLER|BUG FIXES"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/mday43es22eccx7rldyou/RobloxPlayerInstaller-8JKJM7DWM2.exe?rlkey=rtn2gouspylf23g8gqfsoqv90&st=9v1njurb&dl=0"
 ROBLOX VERSION: "version-7a4a5d7d1fb3449f"
