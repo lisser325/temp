@@ -111,7 +111,7 @@
   "OutdoorAmbient": "0x108",
   "Parent": "0x68",
   "PartSize": "0x1B0",
-  "Ping": "0xC0",
+  "Ping": "0xCC",
   "PlaceId": "0x198",
   "PlayerConfigurerPointer": "0x777C770",
   "PlayerMouse": "0xCD0",
