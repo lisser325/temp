@@ -3,4 +3,4 @@ AXIOM DOWNLOAD: "https://1007.filemail.com/api/file/get?filekey=abOIKHiFB3Bjve3B
 CHANGES: "NEW UI|TP HANDLER|BUG FIXES"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/mday43es22eccx7rldyou/RobloxPlayerInstaller-8JKJM7DWM2.exe?rlkey=rtn2gouspylf23g8gqfsoqv90&st=9v1njurb&dl=0"
-ROBLOX VERSION: "version-1849ecbff0824113"
+ROBLOX VERSION: "version-5aed1822f52c4b03"
