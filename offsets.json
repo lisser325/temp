@@ -173,5 +173,6 @@
  "Text": "0xe40",
  "CurrentState": "0x12",
  "OffsetY": "0x15c",
- "OffsetX": "0x158"
+ "OffsetX": "0x158",
+ "NextGenReplicatorEnabledWrite4": "0x67EFC48"
 }
