@@ -1,0 +1,10 @@
+<"
+### ⚙️ **Engine Fixes**
+
+* Fixed TPHandler for Practical Basketball 
+* Reduced chances of the **external crashing**
+* Fixed UI tabs **not updating their colors**
+* Fixed theme-loading **causing crashes**
+* Fixed **Icy** showing in dropdowns even when not selected
+* Fixed updater **failing to launch**
+">
