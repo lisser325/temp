@@ -1,33 +1,38 @@
 <"
-# 🎉 **AXIOM EXTERNAL EARLY RELEASE UPDATE**
 
-> ⚠️ **Note:** This is an **early release build**.
-> A larger update will drop **later today** with more features, fixes, and optimizations.
+# ⚙️ **CORE UPDATES**
 
-# 🏀 **PRACTICAL BASKETBALL UPDATE**
+* The **Console App has been fully converted into a Windows Application**
 
-Axiom just got better in **Practical Basketball**, bringing new gameplay control and improved stability.
+* **Controller support added** for all keybind buttons
 
-### 🔋 **Stamina Features**
+* New **“Hide Console” toggle** added to Settings directly in the UI
 
-* **Infinite Stamina Added** - sprint nonstop without drain
-* **Stamina Control Added** - reduce stamina slower(screenshare proof/legit looking stamina)
+* Improved **UI startup**
 
-# 🛠️ **CRASH REDUCTIONS & CORE IMPROVEMENTS**
+* Attempt to reduce **reduce overall crashing**
 
-I've focused hard on stability this update.
+# 🏀 **PRACTICAL BASKETBALL UPDATES**
 
-### ⚙️ **Engine Fixes**
+* **Autotime #2 added**
+  (This version is experimental, may help with jelling; more refinements coming)
 
-* Fixed TPHandler for Practical Basketball 
-* Reduced chances of the **external crashing**
-* Fixed UI tabs **not updating their colors**
-* Fixed theme-loading **causing crashes**
-* Fixed **Icy** showing in dropdowns even when not selected
-* Fixed updater **failing to launch**
-# 🔄 **AUTO-UPDATER HAS RETURNED**
+* **Walkspeed Added**
+  *Important:* Walkspeed only activates **after a TP**.
+  Set your value → TP in-game → when you respawn, the walkspeed applies consistently.
 
-The **Axiom Auto-Updater** is fully restored and working again! Enjoy! Now seamless, automatic updates are back.
+* Fixed an issue where **AutoTime would stop working after TP**
 
-### 📥 **All customers must reinstall in the updated builds channel!**
+* More autotime tweaks planned **later today**
+
+# 🔧 **ENGINE UPDATES**
+
+* Improved **SafeThreading Logic**
+* Increased **overall stability** across engine tasks
+* Optimized **thread calling** for better performance and fewer stalls
+
+# 🎨 **UI UPDATES**
+
+* Fixed a **font-related crash**
+* Added a **“What’s New” popup** that automatically displays every update
 ">
