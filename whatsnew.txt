@@ -1,4 +1,22 @@
 <"
+# 🎉 **AXIOM EXTERNAL EARLY RELEASE UPDATE**
+
+> ⚠️ **Note:** This is an **early release build**.
+> A larger update will drop **later today** with more features, fixes, and optimizations.
+
+# 🏀 **PRACTICAL BASKETBALL UPDATE**
+
+Axiom just got better in **Practical Basketball**, bringing new gameplay control and improved stability.
+
+### 🔋 **Stamina Features**
+
+* **Infinite Stamina Added** - sprint nonstop without drain
+* **Stamina Control Added** - reduce stamina slower(screenshare proof/legit looking stamina)
+
+# 🛠️ **CRASH REDUCTIONS & CORE IMPROVEMENTS**
+
+I've focused hard on stability this update.
+
 ### ⚙️ **Engine Fixes**
 
 * Fixed TPHandler for Practical Basketball 
@@ -7,4 +25,9 @@
 * Fixed theme-loading **causing crashes**
 * Fixed **Icy** showing in dropdowns even when not selected
 * Fixed updater **failing to launch**
+# 🔄 **AUTO-UPDATER HAS RETURNED**
+
+The **Axiom Auto-Updater** is fully restored and working again! Enjoy! Now seamless, automatic updates are back.
+
+### 📥 **All customers must reinstall in the updated builds channel!**
 ">
