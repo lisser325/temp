@@ -172,7 +172,7 @@
   "Visible": "0x5b9",
   "Text": "0xe40",
   "CurrentState": "0x20",
-  "OffsetY": "0x348",
-  "OffsetX": "0x344",
+  "OffsetY": "0x15C",
+  "OffsetX": "0x158",
   "NextGenReplicatorEnabledWrite4": "0x67F0C88"
 }
