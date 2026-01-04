@@ -1,5 +1,5 @@
 VERSION: 4.2
-AXIOM DOWNLOAD: "http://www.axiomsoftworks.com/Axiom.exe"
+AXIOM DOWNLOAD: "http://us3.bot-hosting.net:20835/Axiom.exe"
 CHANGES: "NEW AUTOTIME|PB WALKSPEED|TOS OF FIXES"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/mday43es22eccx7rldyou/RobloxPlayerInstaller-8JKJM7DWM2.exe?rlkey=rtn2gouspylf23g8gqfsoqv90&st=9v1njurb&dl=0"
