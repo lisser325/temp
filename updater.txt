@@ -1,6 +1,6 @@
 VERSION: 4.3
 AXIOM DOWNLOAD: "http://us3.bot-hosting.net:20835/Axiom.exe"
-CHANGES: "NEW AUTOTIME|PB WALKSPEED|TOS OF FIXES"
+CHANGES: "AUTOTIME FIXES|ENGINE UPDATES|REINSTALL IN DISCORD, UPDATER UPDATE"
 UPDATEDROBLOX: YES
 ROBLOX DOWNLOAD: "https://dl.dropboxusercontent.com/scl/fi/mday43es22eccx7rldyou/RobloxPlayerInstaller-8JKJM7DWM2.exe?rlkey=rtn2gouspylf23g8gqfsoqv90&st=9v1njurb&dl=0"
 ROBLOX VERSION: "version-f8f53a67efca4c34"
