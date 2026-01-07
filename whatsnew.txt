@@ -1,45 +1,9 @@
 <"
 
-# ⭐ **Axiom Update 4.2**
-
-This update mainly focuses on **stability**, **autotime improvements**, and cleaning up core systems.
-A good amount of internal problems should finally be gone.
+# ⭐ **Axiom Update 4.4**
 
 ## ⚙️ **Engine Updates**
 
-* Added back authentication detections(HWID Mismatch, License not found, etc).
-* Reworked and improved threading logic.
-* Threads can now **restart safely** (UI overlay, player objects, ESP, etc).
-* Fixes issues where:
-  * ESP/Aimbot suddenly stopped working
-  * UI crashing
-  * Features required a full restart
-  * Overall engine should hopefully be more stable
-
-
-## 🖥️ **UI Updates**
-
-* Added **GUI Types** (2 experimental styles for now).
-* Added **FPS UI** for lower-end PCs to help improve performance and clarity.
-
-## 🎨 **Visual Updates**
-
-* Updated ESP visuals.
-* Updated tracers
-
-## 📦 **Base Fixes**
-
-* Fixed **uncolored** text issues.
-* Fixed **unsorted** text appearing in menus or lists.
-
-## 🏀 **Practical Basketball**
-
-* Added **Self Improver** (untested.. I literally cannot test this, so we wait until it comes out, it might not be the best though, or work at all).
-
-## **Executor**
-
-* Executor system has been added!
-* Not released yet! Code is finished but will be posted **next update(hopefully)**.
-* Unsure how long I will maintain this project, could be one more update or several. We’ll see.
+* Fixed backend causing connection errors
 
 ">
