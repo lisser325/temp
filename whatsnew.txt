@@ -1,9 +1,9 @@
 <"
 
-# ⭐ **Axiom Update 4.4**
+# ⭐ **Axiom Update 4.5**
 
 ## ⚙️ **Engine Updates**
 
-* Fixed backend causing connection errors
-
+* Added Sensitivity
+* Fixed DeSync
 ">
