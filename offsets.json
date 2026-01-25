@@ -167,6 +167,7 @@
   "Workspace": "0x178",
   "WorkspaceToWorld": "0x390",
   "viewmatrix": "0x4b0",
+  "viewport": "0x2AC",
   "SpecialMeshID": "0x108",
   "SizeY": "0x550",
   "Visible": "0x5c1",
