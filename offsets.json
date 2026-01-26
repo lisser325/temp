@@ -176,4 +176,6 @@
   "OffsetY": "0x15c",
   "OffsetX": "0x158",
   "NextGenReplicatorEnabledWrite4": "0x6804F58"
+  "AbsoluteSize": "0x118"
+  "AbsolutePosition": "0x110"
 }
