@@ -1,4 +1,4 @@
-VERSION: 4.5
+VERSION: 4.6
 AXIOM DOWNLOAD: "http://us3.bot-hosting.net:20835/Axiom.exe"
 CHANGES: "Added Sensitivty to Universal Aimbot, discord.gg/rbw5"
 UPDATEDROBLOX: YES
