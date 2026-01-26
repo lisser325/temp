@@ -1,9 +1,20 @@
 <"
 
-# ⭐ **Axiom Update 4.5**
+## **AXIOM v4.6**
 
-## ⚙️ **Engine Updates**
+### **Core**
 
-* Added Sensitivity
-* Fixed DeSync
+* Attempted to fix ESP crashing
+* Attempted to fix initialization bugs during launch
+
+### **Visuals**
+
+* Updated ESP
+
+### **Silent Aim**
+
+* Fixed Silent Aim
+* Fixed Silent Aim FOV
+* Added support for Rivals Silent Aim
+
 ">
