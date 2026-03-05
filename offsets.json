@@ -160,7 +160,7 @@
   "ViewportSize": "0x2e8",
   "VisualEngine": "0x10",
   "VisualEnginePointer": "0x7b1f068",
-  "VisualEngineToDataModel1": "0x700",
+  "VisualEngineToDataModel1": "0xa50",
   "VisualEngineToDataModel2": "0x1c0",
   "WalkSpeed": "0x1d4",
   "WalkSpeedCheck": "0x3b8",
